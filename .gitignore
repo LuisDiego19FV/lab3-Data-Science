@@ -1,0 +1,9 @@
+# Images ignore
+*.png
+*.jpg
+*.jpeg
+*.ico
+
+# Folders ignore
+/test_images
+/train_images
